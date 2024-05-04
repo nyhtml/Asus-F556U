@@ -1,0 +1,17 @@
+## Table of Contents
+
+* [The Build](#the-build)
+  * [BIOS Settings](#bios-settings)
+* [Partition Boot Drive](#partition-boot-drive)
+* [Prepare Install Media](#prepare-install-media)
+* [Install the Bootloader](#install-the-bootloader)
+* [Kernel Extensions](#kernel-extensions)
+  * [Mandatory](#mandatory)
+  * [Post Installation](#post-installation)
+  * [Optional](#optional)
+* [Video Demonstrations](#video-demonstrations)
+* [Compatibility](#compatibility)
+* [Releases](#releases)
+* [License](#license)
+* [Warranty](#warranty)
+* [Download](#download)
