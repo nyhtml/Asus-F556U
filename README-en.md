@@ -17,7 +17,7 @@
 * [Download](#download)
 
 ## The Build
-View the complete [specs](https://www.dualbootpc.com/systems/desktop/arctic-fox/specs/) at `http://gixxer.us/2Jslljx`
+View the complete [specs](https://www.dualbootpc.com/systems/laptop/) at `http://sipyl.us/2Jslljx`
 
 ## Prepare Install Media
 1. Download the installer for [macOS Sierra](https://www.dualbootpc.com/software/system/macos/sierra/) from the Mac App Store.
