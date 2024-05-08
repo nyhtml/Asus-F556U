@@ -50,8 +50,8 @@ View the complete [specs](https://www.dualbootpc.com/systems/laptop/) at `http:/
 
 **Boot Drive**
 * Export the **BOOT** and the **CLOVER** from the EFI Folder on the USB Flash Drive and import to the EFI Folder on the boot drive.
-* Install [Clover 2.5k r5119](https://github.com/Sipylus/Arctic-Fox/releases/tag/1.6.4) to your boot drive and customize with the **additional** options:
-  * Install RC Scripts in target volume
+* Install [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.5k r5119 to your boot drive and customize with the **additional** options:
+  * Install RC Scripts in the target volume
   * Install Clover Preference Pane (Select during Post Installation)
 * Eject all USB Flash Drives and restart to the BIOS.
 * Set the boot drive with Clover as the Primary and exit.
