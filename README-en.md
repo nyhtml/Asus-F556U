@@ -35,7 +35,7 @@ View the complete [specs](https://www.dualbootpc.com/systems/laptop/) at `http:/
     
 ## Install the Bootloader
 **USB Flash Drive**
-* Download the included [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer from [Release v0.1.0](https://github.com/Sipylus/Arctic-Fox/releases/tag/0.1.0)
+* Download the [Clover](https://www.dualbootpc.com/software/bootloader/clover/) 2.4k r4934 installer.
 * Install Clover 2.4k r4934 to your 16 GB [USB drive](https://www.dualbootpc.com/hardware/usb/) device and customize with the following options:
   * Clover for UEFI booting only
   * Install Clover in the ESP
